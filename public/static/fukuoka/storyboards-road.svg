@@ -1,0 +1,16 @@
+<svg width="374" height="532" viewBox="0 0 374 532" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M-3 8H280" stroke="black" stroke-width="15"/>
+<path d="M123 180L280 180" stroke="black" stroke-width="15"/>
+<path d="M123 352L280 352" stroke="black" stroke-width="15"/>
+<path d="M13 524L280 524" stroke="black" stroke-width="15"/>
+<path d="M280 180C327.496 180 366 141.496 366 94C366 46.5035 327.496 8 280 8" stroke="black" stroke-width="15"/>
+<path d="M280 524C327.496 524 366 485.496 366 438C366 390.504 327.496 352 280 352" stroke="black" stroke-width="15"/>
+<path d="M123 352C75.5035 352 37 313.496 37 266C37 218.504 75.5035 180 123 180" stroke="black" stroke-width="15"/>
+<path d="M-3 8H280" stroke="white" stroke-dasharray="5 5"/>
+<path d="M123 180L280 180" stroke="white" stroke-dasharray="5 5"/>
+<path d="M123 352L280 352" stroke="white" stroke-dasharray="5 5"/>
+<path d="M14 524L280 524" stroke="white" stroke-dasharray="5 5"/>
+<path d="M280 180C327.496 180 366 141.496 366 94C366 46.5035 327.496 8 280 8" stroke="white" stroke-dasharray="5 5"/>
+<path d="M280 524C327.496 524 366 485.496 366 438C366 390.504 327.496 352 280 352" stroke="white" stroke-dasharray="5 5"/>
+<path d="M123 352C75.5035 352 37 313.496 37 266C37 218.504 75.5035 180 123 180" stroke="white" stroke-dasharray="5 5"/>
+</svg>
